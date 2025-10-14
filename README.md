@@ -1,4 +1,4 @@
-# CSCA5622Final
+# CSCA5622 Supervised Machine Learning Final Project
 In our globalized world, new genres are constantly forming and merging, and song placement into one or more of these categories is increasingly debatable. 
 
 But that doesn't stop us from trying. After all, there is high demand and incentive to categorize music to best cater to millions of music streaming service subscribers.
